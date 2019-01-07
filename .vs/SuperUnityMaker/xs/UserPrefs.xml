@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{7B247169-318A-0F3B-1397-47481AE6B6CB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UnityMaker/Scripts/EnemyController.cs">
+    <Files>
+      <File FileName="Assets/UnityMaker/Scripts/PointController.cs" Line="13" Column="22" />
+      <File FileName="Assets/UnityMaker/Scripts/AudioSourceController.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityMaker/Scripts/UnityChan2DController.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityMaker/Scripts/Base.cs" Line="1" Column="1" />
+      <File FileName="Assets/UnityMaker/Scripts/EnemyController.cs" Line="13" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
